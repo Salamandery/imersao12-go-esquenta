@@ -1,4 +1,4 @@
-module github.com/devfullcycle/imersao12-go-esquenta
+module github.com/salamandery/imersao12-go-esquenta
 
 go 1.21.0
 
